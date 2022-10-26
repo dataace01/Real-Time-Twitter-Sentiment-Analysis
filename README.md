@@ -19,9 +19,13 @@ Here we are going to use Twitter sentiments data in the following ways:
 - Twitter data is extracted and cleansed followed by sentiment analysis of tweets.
 - Finally continuous data is loaded into MongoDB and data is visualized using scatter graph and table definitions in python plotly and Dash.
 ## Tech Stack:
-- Docker version 3.0.0
-- NiFi version 1.3.2
-- Kafka version 2.8.0
-- Spark version 3.1.1
-- MongoDB version 4.4.5
-- Dash version 1.20.0
+- AWS EC2
+- Docker
+- Jupyter Lab
+- Spark Structured Streaming and MLlib
+- NiFi
+- Kafka
+- Python
+- MongoDB
+- Plotly
+- Dash
