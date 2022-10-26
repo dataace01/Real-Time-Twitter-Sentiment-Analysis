@@ -18,7 +18,7 @@ I will use Twitter sentiments data in the following ways:
 - In transformation and load process, schema is extracted from twitter streams and data is read from Kafka as streaming dataframe.
 - Twitter data is extracted and cleansed followed by sentiment analysis of tweets.
 - Finally continuous data is loaded into MongoDB and data is visualized using scatter graph and table definitions in python plotly and Dash.
-## Tech Stack:
+## Tech Stack: 
 - AWS EC2
 - Docker
 - Jupyter Lab
